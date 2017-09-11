@@ -1,0 +1,14 @@
+/home/elyas/Desktop/Programmiersprachen/Arbeiten/Aufgabe2/programmiersprachen-aufgabenblatt-3/CMakeFiles/edit_cache.dir
+/home/elyas/Desktop/Programmiersprachen/Arbeiten/Aufgabe2/programmiersprachen-aufgabenblatt-3/CMakeFiles/rebuild_cache.dir
+/home/elyas/Desktop/Programmiersprachen/Arbeiten/Aufgabe2/programmiersprachen-aufgabenblatt-3/CMakeFiles/nanovg.dir
+/home/elyas/Desktop/Programmiersprachen/Arbeiten/Aufgabe2/programmiersprachen-aufgabenblatt-3/external/glfw-3.2.1/CMakeFiles/edit_cache.dir
+/home/elyas/Desktop/Programmiersprachen/Arbeiten/Aufgabe2/programmiersprachen-aufgabenblatt-3/external/glfw-3.2.1/CMakeFiles/rebuild_cache.dir
+/home/elyas/Desktop/Programmiersprachen/Arbeiten/Aufgabe2/programmiersprachen-aufgabenblatt-3/external/glfw-3.2.1/src/CMakeFiles/rebuild_cache.dir
+/home/elyas/Desktop/Programmiersprachen/Arbeiten/Aufgabe2/programmiersprachen-aufgabenblatt-3/external/glfw-3.2.1/src/CMakeFiles/edit_cache.dir
+/home/elyas/Desktop/Programmiersprachen/Arbeiten/Aufgabe2/programmiersprachen-aufgabenblatt-3/external/glfw-3.2.1/src/CMakeFiles/glfw.dir
+/home/elyas/Desktop/Programmiersprachen/Arbeiten/Aufgabe2/programmiersprachen-aufgabenblatt-3/external/glfw-3.2.1/docs/CMakeFiles/edit_cache.dir
+/home/elyas/Desktop/Programmiersprachen/Arbeiten/Aufgabe2/programmiersprachen-aufgabenblatt-3/external/glfw-3.2.1/docs/CMakeFiles/rebuild_cache.dir
+/home/elyas/Desktop/Programmiersprachen/Arbeiten/Aufgabe2/programmiersprachen-aufgabenblatt-3/external/glfw-3.2.1/docs/CMakeFiles/docs.dir
+/home/elyas/Desktop/Programmiersprachen/Arbeiten/Aufgabe2/programmiersprachen-aufgabenblatt-3/source/CMakeFiles/edit_cache.dir
+/home/elyas/Desktop/Programmiersprachen/Arbeiten/Aufgabe2/programmiersprachen-aufgabenblatt-3/source/CMakeFiles/rebuild_cache.dir
+/home/elyas/Desktop/Programmiersprachen/Arbeiten/Aufgabe2/programmiersprachen-aufgabenblatt-3/source/CMakeFiles/aufgabe2bis3_neu.dir
